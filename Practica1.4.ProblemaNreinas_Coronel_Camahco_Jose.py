@@ -1,6 +1,7 @@
 import random
 import time
 
+
 start = time.time()  # Registro del tiempo de inicio para medir la duración del algoritmo
 
 # Definición de parámetros para el algoritmo genético
